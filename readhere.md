@@ -98,7 +98,7 @@
 
 19. **Как определять избыточные ФЗ с использованием правил вывода ФЗ? Приведите пример.**
 
-![image](https://github.com/user-attachments/assets/a8a6d015-f44a-4695-a028-2143a6e886c2)
+> ![image](https://github.com/user-attachments/assets/a8a6d015-f44a-4695-a028-2143a6e886c2)
 
 20. **Что такое минимальное покрытие ФЗ отношения?**
 
